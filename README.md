@@ -15,4 +15,4 @@ Both of them perceive to be equivalent but in reality are not.
 Further metrics such as PSNR can be calculated to get the destortion added to the image.
 
 
-#### Thanks to https://github.com/RameshAditya for his help
+#### Thanks to RameshAditya for his help
