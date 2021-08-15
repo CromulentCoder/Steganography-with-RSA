@@ -13,6 +13,3 @@ The results can be seen with the help of the two pictures where barbara.bmp is t
 Both of them perceive to be equivalent but in reality are not.
 
 Further metrics such as PSNR can be calculated to get the destortion added to the image.
-
-
-#### Thanks to RameshAditya for his help
